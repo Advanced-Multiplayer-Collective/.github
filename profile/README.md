@@ -13,7 +13,7 @@ The Anniversary Multiplayer Project is a community-driven effort to faithfully r
 | :yellow_square: | Halo 2 Anniversary MP         |
 | :red_square: | Halo 3 Anniversary MP         |
 | :yellow_square: | ODST Anniversary MP           |
-| :red_square: | ODST Anniversary Firefight    |
+| :yellow_square: | ODST Anniversary Firefight    |
 | :red_square: | Halo 4 Anniversary MP         |
 
 ## Resources & Tools
