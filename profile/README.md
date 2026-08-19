@@ -11,7 +11,7 @@ The Advanced Multiplayer Project is a community-driven effort to faithfully recr
 | :yellow_square: | Reach Advanced Firefight   |
 | :yellow_square: | Combat Evolved Advanced MP |
 | :yellow_square: | Halo 2 Advanced MP         |
-| :red_square: | Halo 3 Advanced MP         |
+| :yellow_square: | Halo 3 Advanced MP         |
 | :green_square: | [ODST Advanced MP](https://fileshare.zgaf.io/api_v2/modview?modId=257)           |
 | :yellow_square: | ODST Advanced Firefight    |
 | :red_square: | Halo 4 Advanced MP         |
